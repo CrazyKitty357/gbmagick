@@ -17,3 +17,5 @@ to generate the mono image
 ```
 ./main.sh --mono input.png out.png
 ```
+## Helpful info
+I also made an [imgur album](https://imgur.com/a/RDVAVAN) that might be helpful to people using this program, it documents how GBStudio's auto palette feature works (and breaks down when using higher colors on "complex" images)

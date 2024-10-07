@@ -6,7 +6,7 @@
 # Check if ImageMagick (magick) is installed
 if ! command -v magick &> /dev/null
 then
-    echo "ImageMagick (magick) could not be found. Please install it to proceed."
+    echo "ImageMagick (magick) could not be found. Please install it via your package manager to proceed."
     exit
 fi
 
